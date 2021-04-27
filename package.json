@@ -1,0 +1,26 @@
+{
+  "name": "harry-universidad",
+  "version": "1.0.0",
+  "description": "project api universitity",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryKill2001/backend-university.git"
+  },
+  "author": "harrison velez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarryKill2001/backend-university/issues"
+  },
+  "homepage": "https://github.com/HarryKill2001/backend-university#readme",
+  "dependencies": {
+    "exceljs": "^4.2.1",
+    "express": "^4.17.1",
+    "nodemailer": "^6.5.0",
+    "pg": "^8.6.0"
+  }
+}
